@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Health Checkup",
+      "day": "March 1 at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Friends Birthday",
+      "day": "June 11 at 12:00am",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Get Together",
+      "day": "August 18 at 7:30pm",
+      "reminder": true
+    }
+  ]
+}
